@@ -10,8 +10,7 @@
 </p>
 
 
-## 📁 Arborescence du projet Laravel
-
+## 📁 Arborescence du projet
 ```
 📁 app
     📁 Console
