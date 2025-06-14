@@ -64,7 +64,7 @@
 </main>
     <footer>
         <p>
-            &copy; - MIT - 2025
+            &copy; - YOU - 2025
         </p>
     </footer>
 </body>

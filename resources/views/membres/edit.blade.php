@@ -51,7 +51,7 @@
         </section>
     </main>
  <footer>
-    <p>&copy; - MIT - {{ date('Y') }}</p>
+    <p>&copy; - YOU - {{ date('Y') }}</p>
  </footer>
 </body>
 </html>

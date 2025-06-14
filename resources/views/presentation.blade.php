@@ -12,8 +12,9 @@
     
         <section>
             <h2><span class="align-v" aria-hidden="true">💻</span>Projet</h2>
-            <p>In four days, at the latest, the 'Great Eastern' must reach New York harbour;
-             therefore we might hope that accident would not dally with our watchfulness</p>
+            <p>Maison de Ligue est une application web professionnelle conçue pour faciliter la gestion des employés 
+                d'une ligue. Elle offre une interface intuitive et conviviale permettant aux administrateurs de gérer efficacement 
+                les informations relatives aux employés, telles que leurs informations personnelles, leurs rôles, leurs contrats, etc.</p>
              <a href="/" class="btn-default btn-secondary">Search in the web</a>
              <a href="liste" class="btn-default btn-secondary">Search in list</a>
         </section>
