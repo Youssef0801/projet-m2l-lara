@@ -31,7 +31,7 @@
         <label for="attachment">Pièce jointe:</label>
         <input type="file" id="attachment" name="attachment" accept=".jpg,.jpeg,.png,.pdf" required>
         <p>Nous vous remercions de votre confiance et restons à votre disposition pour toute question ou information complémentaire.</p>
-            </p>
+        </p>
  
     <button type="submit"  class="btn-default btn-success">Enregistrer</button>
 </form>
