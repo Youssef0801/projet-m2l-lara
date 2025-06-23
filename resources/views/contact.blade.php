@@ -21,11 +21,17 @@
         
         <form action="{{ route('contact.store') }}" method="POST">@csrf
    
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-   
-        <label for="password">Mot de passe:</label>
-        <input type="password" id="password" name="password" required>
+
+        <label for="name">Nom:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="subject">Sujet:</label>
+        <input type="text" id="subject" name="subject" required>
+        <label for="phone">Téléphone:</label>
+        <input type="tel" id="phone" name="phone" required>
+        <label for="attachment">Pièce jointe:</label>
+        <input type="file" id="attachment" name="attachment" accept=".jpg,.jpeg,.png,.pdf" required>
+        <p>Nous vous remercions de votre confiance et restons à votre disposition pour toute question ou information complémentaire.</p>
+            </p>
  
     <button type="submit"  class="btn-default btn-success">Enregistrer</button>
 </form>
