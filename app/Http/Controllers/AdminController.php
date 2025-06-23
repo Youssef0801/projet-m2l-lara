@@ -54,7 +54,6 @@ class AdminController extends Controller
 
         return view('dashboard');
     }
-
     # Déconnexion
     public function logout()
     {

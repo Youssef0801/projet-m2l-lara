@@ -39,7 +39,6 @@
                         <td>
                         
                             <a href="{{ route('membres.edit', $membre->id) }}" class="btn-default btn-primary">Modifier</a>
-                            {{-- On ajoutera la suppression ici plus tard --}}
                              <!-- Formulaire de suppression -->
                              <form action="{{ route('membres.destroy', $membre->id) }}" method="POST" style="display:inline-block;">
                                 @csrf

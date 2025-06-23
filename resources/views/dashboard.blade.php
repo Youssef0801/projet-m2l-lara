@@ -12,7 +12,7 @@
 </header>
 <main>
 <section>
-    <a href="{{ url('/membres') }}" class="btn-default btn-success btn-align">Modifier la liste des membres</a>
+    <a href="{{ url('/membres') }}" class="btn-default btn-success btn-align">Regarder la liste des membres</a>
     </form>
     <div class="picture">
         <img src="https://raw.githubusercontent.com/giusmili/lgc-complet-php/refs/heads/master/asset/cover.jpg"
